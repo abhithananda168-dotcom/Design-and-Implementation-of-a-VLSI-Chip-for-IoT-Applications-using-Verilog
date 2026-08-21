@@ -5,6 +5,7 @@
 > A basic digital hardware implementation of a motion detection system using **Verilog HDL**, designed to detect an object within a predefined distance and generate an alert signal.
 
 📚 **Digital Hardware / Verilog Project**
+
 👤 **Author:** Abhitha Nanda Kishore
 
 
